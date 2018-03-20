@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe.config
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\bin\Debug\FirstVariable.exe
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\bin\Debug\FirstVariable.pdb
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\obj\Debug\FirstVariable.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\obj\Debug\FirstVariable.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\obj\Debug\FirstVariable.exe
+C:\Users\admin\Desktop\CSharpcoursecoudse\FirstVariable\FirstVariable\obj\Debug\FirstVariable.pdb
