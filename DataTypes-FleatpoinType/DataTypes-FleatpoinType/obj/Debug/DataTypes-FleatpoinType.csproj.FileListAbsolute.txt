@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\bin\Debug\DataTypes-FleatpoinType.exe.config
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\bin\Debug\DataTypes-FleatpoinType.exe
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\bin\Debug\DataTypes-FleatpoinType.pdb
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\obj\Debug\DataTypes-FleatpoinType.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\obj\Debug\DataTypes-FleatpoinType.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\obj\Debug\DataTypes-FleatpoinType.exe
+C:\Users\admin\Desktop\DataTypes-FleatpoinType\DataTypes-FleatpoinType\obj\Debug\DataTypes-FleatpoinType.pdb
